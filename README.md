@@ -1,4 +1,4 @@
-# dotfiles
+# dotfiles by Björn Benouarets
 
 ## Installation
 ```bash
@@ -43,4 +43,5 @@ The font which I use for my terminal is the `Source Code Pro for Powerline`.
 - helm
 - ansible
 - zsh-autosuggestions
+- zsh-syntax-highlighting
 - python
